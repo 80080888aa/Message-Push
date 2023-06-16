@@ -3,7 +3,7 @@
   
 ## Message Push  
 v2.0.1  
-- 应用下载：https://denghe.aixuxu.com/kuangbiao
+- 应用下载：https://denghe.aixuxu.com/kuangbiao/template-msg_1.0.0.exe
 - 联系邮箱：87093050@qq.com  
 - 诚邀您提出自己的宝贵意见/建议  
   
